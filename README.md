@@ -4,7 +4,7 @@ This is a sample application which will display test ads using sample ad units. 
 ||||| Flutter Ads App |||||
 |:-------------:|:-------------:| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:| :-------------: |:-------------:|
 ||||| 🎁 Reward Coins increases after watching the Rewarded Video Ad |||||
-||||| ![Flutter Ads App](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-mobile-ads.gif) |||||
+||||| ![Flutter Ads App](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-admob.gif) |||||
 
 
 ### Prerequisites 📝
@@ -28,7 +28,7 @@ Licensed under the Apache License, Version 2.0 -  [LICENSE](https://github.com/a
 ### Ad Formats 
 | Banner Ad | Interstitial Ad | Rewarded Video Ad |
 | ------------- | ------------- | ------------- |
-| ![Banner Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-banner-ad.gif)  | ![Interstitial Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-interstitial-ad.gif) | ![Rewarded Video Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-rewarded-ad.gif)
+| ![Banner Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-admob-banner.gif)  | ![Interstitial Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-admob-interstitial.gif) | ![Rewarded Video Ad](https://github.com/akshatapp/flutter_test_ads_app/blob/main/images/flutter-admob-rewarded.gif)
 
 
 ### How do I display AdMob ads in my Flutter app and start earning revenue 💰?
